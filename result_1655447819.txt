@@ -1,0 +1,2610 @@
+en:Mister. Mister?
+vi:Anh ơi?Anh ơi?
+chi:先生?
+
+--------------------------------------------------------------------------------
+en:Ladies and gentlemen,
+vi:Thưa quý ông quý bà,
+chi:欢迎莅临圣荷西国际机场
+
+--------------------------------------------------------------------------------
+en:welcome to San JoseInternational Airport.
+vi:chào mừng đến sân bayquốc tế San Jose.
+chi:欢迎莅临圣荷西国际机场
+
+--------------------------------------------------------------------------------
+en:Watch out!
+vi:Này nhóc, coi chừng!
+chi:小心!
+
+--------------------------------------------------------------------------------
+en:- Adam!- Adam!
+vi:Giúp với!
+
+--------------------------------------------------------------------------------
+en:Oh, my God!
+vi:- Adam?!- Ôi chúa ơi!
+chi:-亚当-我的天啊
+
+--------------------------------------------------------------------------------
+en:Adam! Somebody call 911!
+vi:Adam?!
+chi:亚当,快帮忙叫救护车!
+
+--------------------------------------------------------------------------------
+en:Oh, my God.
+vi:Ôi chúa ơi!
+chi:我是医生,让我看一下
+
+--------------------------------------------------------------------------------
+en:I'm a doctor. Let me takea look. Let me take a look.
+vi:Tôi là bác sĩ, để tôi xem.Để tôi xem.
+chi:我是医生,让我看一下
+
+--------------------------------------------------------------------------------
+en:His jugular vein's been cut.Does anyone have a clean cloth?
+vi:Tĩnh mạch cổ của cậu ấy đã đứt.
+chi:他的颈静脉被割破了
+
+--------------------------------------------------------------------------------
+en:- Please, someone.- I have a fresh change of clothes
+vi:Ai có miếng vải sạch không?Làm ơn, có ai không!
+chi:我的行李箱里有干净的衣服
+
+--------------------------------------------------------------------------------
+en:- in my bag.- That's great.
+vi:Tốt lắm.
+
+--------------------------------------------------------------------------------
+en:You're killing him.
+
+--------------------------------------------------------------------------------
+en:I'm saving his life.He was bleeding out.
+vi:Tôi đang cứu cậu ấy.Cậu ấy đang mất máu.
+chi:我是在救他,他刚刚一直出血
+
+--------------------------------------------------------------------------------
+en:You have it in the wrong place.
+vi:Ông để sai chỗ rồi.
+chi:不对,你按错地方了
+
+--------------------------------------------------------------------------------
+en:I think I rememberenough of Anatomy 101
+vi:Tôi nghĩ tôi vẫn nhớlớp Phẫu thuật căn bản...
+chi:我很熟基础解剖学
+
+--------------------------------------------------------------------------------
+en:to know wherethe jugular vein is.
+vi:đủ để biếtvan tĩnh mạch cổ nằm ở đâu.
+chi:我知道颈静脉在哪里
+
+--------------------------------------------------------------------------------
+en:You would be in the rightplace if he were an adult.
+vi:Ông sẽ đúng nếu cậu ấy là người lớn.
+chi:如果他是成人的话你就没按错地方
+
+--------------------------------------------------------------------------------
+en:He's not an adult. He is a boy,
+vi:Cậu ấy không phải người lớn.Cậu ấy là một cậu bé.
+chi:但他不是成人,他是儿童
+
+--------------------------------------------------------------------------------
+en:which means you're alsoputting pressure on his trachea,
+vi:Nghĩa là ông đang đặtáp lực lên khí quản của cậu ấy.
+chi:代表你同时也压迫到了他的气管
+
+--------------------------------------------------------------------------------
+en:which means he'snot currently breathing.
+chi:所以他现在无法呼吸
+
+--------------------------------------------------------------------------------
+en:You have to put thepressure higher up.
+vi:Ông phải đặt ở vị trí cao hơn.
+chi:你必须压在更高一点的地方
+
+--------------------------------------------------------------------------------
+en:There.
+vi:Đó.
+
+--------------------------------------------------------------------------------
+en:Oh.
+
+--------------------------------------------------------------------------------
+en:There's someglass. He'll be fine.
+chi:有玻璃,他会没事的
+
+--------------------------------------------------------------------------------
+en:Who are you?
+vi:Cậu là ai?
+chi:你好,我是尚恩墨菲医师
+
+--------------------------------------------------------------------------------
+en:Hello. I'm Dr. Shaun Murphy.
+vi:Xin chào.Tôi là bác sĩ Shaun Murphy.
+chi:你好,我是尚恩墨菲医师
+
+--------------------------------------------------------------------------------
+en:I'm a surgical resident at SanJose Saint Bonaventure Hospital.
+vi:Tôi là bác sĩ nội trú...
+chi:我是圣荷西圣文德医院的
+
+--------------------------------------------------------------------------------
+en:Autism, a mental conditioncharacterized by difficulty
+vi:một tình trạng tâm lýbiểu hiện bằng sự khó khăn...
+chi:这种疾病的特征是
+
+--------------------------------------------------------------------------------
+en:in communicating and usinglanguage and abstract concepts.
+vi:trong giao tiếp và sử dụngngôn ngữ và khái niệm trừu tượng.
+chi:对沟通、语言使用和抽象概念有困难
+
+--------------------------------------------------------------------------------
+en:That's the definition.
+vi:Đó là định nghĩa.
+chi:这是自闭症的定义
+
+--------------------------------------------------------------------------------
+en:Does it sound like I'mdescribing a surgeon?
+vi:Nghe có giống tôi đang tảmột bác sĩ phẫu thuật không?
+chi:这听起来像是外科医师吗?
+
+--------------------------------------------------------------------------------
+en:He's not Rain Man.
+vi:Cậu ấy không phải người tự kỷ.
+chi:他不是雨人
+
+--------------------------------------------------------------------------------
+en:He's high-functioning. He'scapable of living on his own,
+vi:Cậu ấy có nhận thức cao,có thể sống tự lập,
+chi:他是高功能自闭症患者他有办法独立生活
+
+--------------------------------------------------------------------------------
+en:capable of managinghis own affairs.
+vi:có thể giải quyếtvấn đề của mình.
+chi:有办法处理好自己的事
+
+--------------------------------------------------------------------------------
+en:"High-functioning"? Is thatour new hiring standard?
+vi:"Nhận thức cao"?
+chi:高功能?
+
+--------------------------------------------------------------------------------
+en:If it were, youwouldn't be here.
+vi:Nếu là thế thìanh sẽ không ngồi đây đâu.
+chi:如果是的话,你就不会在这里了
+
+--------------------------------------------------------------------------------
+en:I'm sorry. Is this reallynecessary? Really?
+vi:Tôi xin lỗi, chuyện nàycó thực sự cần thiết không?
+chi:抱歉,真的有必要这样吗?
+
+--------------------------------------------------------------------------------
+en:A special meeting of the board ofdirectors, as much as I love you all,
+vi:Một buổi họp hội đồng đặc biệt...
+chi:还召开特别董事会?
+
+--------------------------------------------------------------------------------
+en:questioning one of my hiringdecisions? Did you bother to look up
+vi:để chất vấn quyết định tuyển dụng của tôi?
+chi:但你们为什么这么质疑我的聘雇决定?
+
+--------------------------------------------------------------------------------
+en:the definition of "president" whileyou were skimming the dictionary?
+vi:Mọi người có tra định người của "Chủ tịch"...
+chi:你之前查辞典的时候有没有顺便查
+
+--------------------------------------------------------------------------------
+en:You're hiring him to be asurgical resident, my department,
+vi:Ông thuê cậu ấy để làm một bác sĩ phẫu thuật...
+chi:你要聘他来当外科住院医师
+
+--------------------------------------------------------------------------------
+en:over my objections.
+vi:bộ phận của tôi, bỏ qua sự phản đối của tôi.
+chi:那是我的部门,而且我反对
+
+--------------------------------------------------------------------------------
+en:Marcus, stop makingeverything so personal.
+vi:Marcus, đừng cá nhân Hóa mọi chuyện như vậy.
+chi:马可斯,别把所有事带入私人感情
+
+--------------------------------------------------------------------------------
+en:I made it personal?
+vi:Riêng tư?
+
+--------------------------------------------------------------------------------
+en:You've wanted his job since dayone. Everyone in this room knows that.
+vi:Anh đã muốn công việccủa ông ấy ngay từ ngày đầu.
+chi:你从一开始就想当院长
+
+--------------------------------------------------------------------------------
+en:And, Aaron, yes,this is your hospital,
+vi:Và Aaron, đúng vậy,đây là bệnh viện của ông.
+chi:艾伦,你虽然是医院院长
+
+--------------------------------------------------------------------------------
+en:but the money it takes to run itcomes from the foundation I control,
+vi:Nhưng vốn để duy trì nó...
+chi:来自于由我控制的基金会
+
+--------------------------------------------------------------------------------
+en:so let's all playnice, shall we?
+vi:Nên mọi ngườicùng cư xử đúng đắn nào, được chứ?
+chi:所以我们可以好好谈吗?
+
+--------------------------------------------------------------------------------
+en:Stop acting like you're stunnedthat you're standing there.
+vi:Đừng tỏ vẻ choảng ngợpkhi ông phải đứng đó.
+chi:别装作一副很意外的样子
+
+--------------------------------------------------------------------------------
+en:You tried to slip one past us.
+vi:Ông cố qua mắt chúng tôi.
+chi:你明知道这个人事案有问题
+
+--------------------------------------------------------------------------------
+en:I vetted him like I wouldany other candidate.
+vi:Tôi đã thẩm định cậu tanhư với mọi ứng viên khác.
+chi:我像调查其他候选人一样调查过他了
+
+--------------------------------------------------------------------------------
+en:And you genuinely thought
+vi:Và ông thực sự nghĩ hội đồng này...
+chi:你真的认为这个董事会
+
+--------------------------------------------------------------------------------
+en:that his board wouldn'treasonably have any doubts
+vi:sẽ không mảy may nghi ngờ...
+chi:不会对聘用
+
+--------------------------------------------------------------------------------
+en:about hiring a surgeon who'sbeen diagnosed with autism?
+chi:有自闭症的外科医师有合理质疑吗?
+
+--------------------------------------------------------------------------------
+en:So justify your decision.
+vi:Nên hãy thanh minh choquyết định của ông đi.
+chi:请解释你的决策
+
+--------------------------------------------------------------------------------
+en:I met Shaun Murphywhen he was 14 years old.
+vi:Tôi gặp Shaun Murphykhi cậu ấy 14 tuổi.
+chi:我是在尚恩墨菲14岁时认识他的
+
+--------------------------------------------------------------------------------
+en:I was living in Wyoming atthe time. He was, and he still is,
+vi:Lúc đó tôi đang sống ở Wyoming.
+chi:我当时住在怀俄明州
+
+--------------------------------------------------------------------------------
+en:an extraordinary young man.
+vi:Cậu ấy đã và đanglà một chàng trai phi thường.
+chi:他从那时候到现在一直都是很特别的年轻人
+
+--------------------------------------------------------------------------------
+en:Yes, he has autism, but healso has savant syndrome,
+vi:Đúng thế, cậu ấy bị tự kỷ,nhưng cùng với đó là hội chứng Savant...
+chi:他是有自闭症没错但他也有学者症候群
+
+--------------------------------------------------------------------------------
+en:genius-level skills in severalareas. He has almost perfect recall.
+vi:kỹ năng thiên tài trong nhiều lĩnh vực.
+chi:在某些领域有天才等级的技能
+
+--------------------------------------------------------------------------------
+en:He has spatial intelligence, andhe sees things and analyzes things
+vi:Cậu ấy có trí nhớ gần như hoàn hảo.Có trí thông minh cảm nhận không gian.
+chi:他的记忆力非常好他的空间概念也非常好
+
+--------------------------------------------------------------------------------
+en:in ways that arejust remarkable,
+vi:rất... rất phi thường.
+chi:真的非常厉害
+
+--------------------------------------------------------------------------------
+en:in ways that we can'teven begin to understand.
+vi:Theo những cáchchúng ta chẳng thể hiểu được.
+chi:是我们完全无法理解的
+
+--------------------------------------------------------------------------------
+en:Those are assets.
+chi:对任何医生来说都是
+
+--------------------------------------------------------------------------------
+en:Undeniable assetsfor any doctor,
+vi:Đó là món quà trời phú.Món quà trời phú không thể phủ nhận...
+chi:对任何医生来说都是
+
+--------------------------------------------------------------------------------
+en:particularly a surgeon.
+vi:cho bất kỳ bác sĩ nào,đặc biệt là bác sĩ phẫu thuật.
+chi:尤其是外科医师
+
+--------------------------------------------------------------------------------
+en:I mean, you've knownhim since he was 14.
+vi:Ông đã biết cậu ấytừ khi 14 tuổi?
+chi:你在他14岁时就认识他了?
+
+--------------------------------------------------------------------------------
+en:You care about him.He's like a son to you.
+vi:Ông quan tâm đến cậu ấy.Ông xem cậu ấy như con mình.
+chi:你很在乎他,他就像是你的儿子一样
+
+--------------------------------------------------------------------------------
+en:Dr. Andrews, your wife isgonna be very upset with you.
+vi:Bác sĩ Andrews, vợ của anhsẽ thấy rất buồn với anh.
+chi:安德鲁医师,你太太会很生气的
+
+--------------------------------------------------------------------------------
+en:If you're trying to turnthis into a nepotism case,
+vi:Nếu anh muốn biến chuyện nàythành một vụ ưu ái người thân,
+chi:如果你要质疑这有私相授受的问题
+
+--------------------------------------------------------------------------------
+en:we're gonna have to fire heridiot nephew from bookkeeping.
+vi:chúng ta sẽ phải sa thải đứa cháungốc nghếch của cô ấy bên phòng lưu trữ.
+chi:我们就得开除她在我们会计部门的笨侄子了
+
+--------------------------------------------------------------------------------
+en:Hey.
+vi:Này!
+
+--------------------------------------------------------------------------------
+en:Sorry. You seen Claire?
+vi:Xin lỗi, cậu thấy Claire đâu không?
+chi:-嘿-抱歉,你有看到克莱儿吗?
+
+--------------------------------------------------------------------------------
+en:Would you turn off the light?
+vi:Cậu tắt đèn được chứ?
+chi:-你可以关灯吗?-好,你有看到克莱儿吗?
+
+--------------------------------------------------------------------------------
+en:Sure. You seen Claire?
+vi:Được thôi, cậu thấy Claire đâu không?
+
+--------------------------------------------------------------------------------
+en:Why? Would youturn off the light?
+vi:Tại sao? Cậu tắt đền được không?
+chi:怎么了?你可以关灯吗?
+
+--------------------------------------------------------------------------------
+en:Melendez wantsto operate on 104,
+vi:Melendez muốn phẫu thuật ở phòng 104,
+chi:梅伦戴兹想帮104开刀
+
+--------------------------------------------------------------------------------
+en:but Claire hasn'tgotten informed consent.
+vi:nhưng Claire vẫn chưa có giấy báo chấp thuận.
+chi:但是克莱儿还没处理好同意书的事
+
+--------------------------------------------------------------------------------
+en:And she's ignoring herpage. You seen her?
+vi:Và cô ấy lờ đi báo cáo của mình,cậu thấy cậu ấy đâu không?
+chi:我一直呼叫她都没回应你有看到她吗?
+
+--------------------------------------------------------------------------------
+en:No. Now go away,and turn off the light.
+vi:Không, giờ đi đi và tắt đèn dùm cái.
+chi:没有,请你出去,顺便把灯关了
+
+--------------------------------------------------------------------------------
+en:Sure.
+vi:Được thôi.
+
+--------------------------------------------------------------------------------
+en:They need you to...
+vi:Họ cần cậu phải...
+chi:-他们需要你…-我听到了
+
+--------------------------------------------------------------------------------
+en:I heard.
+vi:Tớ nghe rồi.
+
+--------------------------------------------------------------------------------
+en:She's such a bitch.
+vi:Cậu ấy cứ như bà chằn.
+chi:她真的很机车
+
+--------------------------------------------------------------------------------
+en:No. She just doesn't like you.
+vi:Không.
+chi:她只是不喜欢你而已
+
+--------------------------------------------------------------------------------
+en:It's kind of silly, isn't it?
+vi:Nó hơi ngớ ngẩn, phải không?
+
+--------------------------------------------------------------------------------
+en:Um, maybe. To say for sure,
+vi:Có thể.
+chi:或许吧
+
+--------------------------------------------------------------------------------
+en:I'd need to know whatit is you're talking about.
+vi:cậu đang nói về chuyện gì thế.
+chi:你是在指什么
+
+--------------------------------------------------------------------------------
+en:Us.
+vi:Chúng ta.
+
+--------------------------------------------------------------------------------
+en:Well, not silly at all.
+vi:Không ngớ ngẩn chút nào.
+chi:这一点也不蠢啊
+
+--------------------------------------------------------------------------------
+en:Quite a bit of fun, actually.
+vi:Thật ra cũng khá vui đấy.
+chi:我觉得还蛮好玩的
+
+--------------------------------------------------------------------------------
+en:I meant that we'rehiding it, our relationship.
+vi:Ý tớ là tớ đang giấu nó,quan hệ của chúng ta ấy.
+chi:我是指不公开我们的关系
+
+--------------------------------------------------------------------------------
+en:Hmm.
+chi:这个嘛
+
+--------------------------------------------------------------------------------
+en:Well, Jared,
+vi:Hừm...
+chi:杰瑞德,我们没什么关系
+
+--------------------------------------------------------------------------------
+en:we don't have arelationship. We have sex.
+vi:Jared, chúng tachẳng có quan hệ gì cả.
+chi:杰瑞德,我们没什么关系
+
+--------------------------------------------------------------------------------
+en:But, if you wanna tell peoplethat you're screwing me, go for it.
+vi:Nhưng nếu cậu muốn nói mọi người...
+chi:你如果想跟别人说我们是炮友的话
+
+--------------------------------------------------------------------------------
+en:The veins in the boy'sleft arm are popping.
+vi:Tĩnh mạch cánh tay trái của cậu bé này sắp vỡ.
+chi:他左手臂的静脉扩张了
+
+--------------------------------------------------------------------------------
+en:Is that bad?
+
+--------------------------------------------------------------------------------
+en:I don't see...
+vi:- Thế là xấu à?- Tôi không thấy thế.
+chi:-这样有问题吗?-我不觉得
+
+--------------------------------------------------------------------------------
+en:Intrathoracic pressure.
+vi:Áp suất trong ngực.
+chi:不对,他的胸部有起伏,他有在呼吸
+
+--------------------------------------------------------------------------------
+en:No. His chest isrising. He's breathing.
+vi:Không, lồng ngực cậu ấy phình lên.Cậu ấy đang thở.
+chi:不对,他的胸部有起伏,他有在呼吸
+
+--------------------------------------------------------------------------------
+en:No, the chest ismoving paradoxically.
+vi:Không, lồng ngực đangchuyển động một cách nghịch lý.
+chi:不对,他胸部的移动是不对的
+
+--------------------------------------------------------------------------------
+en:The left lung is in distress.
+vi:Phổi trái đang trongtình trạng nguy kịch.
+chi:左肺有窘迫状况
+
+--------------------------------------------------------------------------------
+en:Yes.
+
+--------------------------------------------------------------------------------
+en:Who here has a sharp knife,blade, five inches or longer?
+vi:Ai ở đây có dao bén,dài khoảng 13cm hoặc hơn không?
+chi:谁有尖刀?
+
+--------------------------------------------------------------------------------
+en:Nobody?
+vi:Không ai sao?
+chi:你应该开始做人工呼吸
+
+--------------------------------------------------------------------------------
+en:You should startartificial respiration.
+vi:Ông nên bắt đầu hô hấp nhân tạo.
+chi:你应该开始做人工呼吸
+
+--------------------------------------------------------------------------------
+en:He's going to stopbreathing very soon.
+vi:Cậu ấy sẽ sớm ngừng thở thôi.
+chi:他马上就会停止呼吸了
+
+--------------------------------------------------------------------------------
+en:I feel fine.
+vi:- Bác thấy ổn.- Bác sĩ Melendez muốn...
+
+--------------------------------------------------------------------------------
+en:Dr. Melendez would liketo do the surgery today.
+vi:làm phẫu thuật vào hôm nay.
+chi:梅伦戴兹医师想要今天进行手术
+
+--------------------------------------------------------------------------------
+en:You need bypasssurgery, quite urgently.
+vi:Bác cần khẩn trương phẫuthuật bắc cầu mạch vành.
+chi:你必须尽快做搭桥手术
+
+--------------------------------------------------------------------------------
+en:Would you pleasesign the consent?
+vi:Bác ký giấy chấp thuận nhé?
+chi:可以请你签一下同意书吗?
+
+--------------------------------------------------------------------------------
+en:No.
+vi:Không.
+chi:你只是很害怕
+
+--------------------------------------------------------------------------------
+en:You're scared.
+vi:Bác sợ hãi.
+chi:你只是很害怕
+
+--------------------------------------------------------------------------------
+en:I'm not scared.
+chi:-我没有害怕-你应该要害怕才对
+
+--------------------------------------------------------------------------------
+en:Well, you should be. We'regonna cut your chest open.
+vi:- Tôi không sợ.- Bác nên sợ đi thì hơn.
+chi:我们会切开你的胸腔
+
+--------------------------------------------------------------------------------
+en:We're gonna stop yourheart, repair it, and restart it.
+vi:bọn cháu sẽ làm tim bác ngừng đập,sửa chữa nó và khởi động lại.
+chi:我们要把你的心脏停下来修补好再重新启动
+
+--------------------------------------------------------------------------------
+en:You're seriously telling methat that doesn't scare you?
+vi:Bác thực sự bảo cháu rằngđiều đó không khiến bác sợ à?
+chi:你怎么可能不觉得害怕?
+
+--------------------------------------------------------------------------------
+en:I just want a second opinion.
+vi:Tôi chỉ muốn một ý kiến thứ hai.
+chi:我只是想征询其他医生的意见
+
+--------------------------------------------------------------------------------
+en:Callum, yesterday,your life was perfect.
+vi:Callum, hôm quacuộc sống của bác vẫn hoàn hảo.
+chi:卡勒,昨天你的人生还很完美
+
+--------------------------------------------------------------------------------
+en:You were playing tennis.You had a big anniversary.
+vi:Bác chơi quần vợt,bác có lễ kỷ niệm hoành tráng.
+chi:你还打了网球还大肆庆祝结婚周年纪念
+
+--------------------------------------------------------------------------------
+en:Today, you're lying in a hospitalbed trying to figure out the best way
+vi:Hôm nay, bác nằm trên giường bệnh...
+chi:但今天你却躺在病床上
+
+--------------------------------------------------------------------------------
+en:to say goodbye, maybeforever, to your teenage children.
+vi:cố nghĩ ra cách tốt nhất để nói lời tạm biệt,
+chi:你十几岁的小孩道别这还可能是最后一次
+
+--------------------------------------------------------------------------------
+en:Why are you doing this?
+vi:Sao cô lại làm thế này?
+chi:你为什么要说这些?
+
+--------------------------------------------------------------------------------
+en:Because I can't deal with lies.
+vi:Vì cháu không thể chấp nhận lời nói dối.
+chi:因为我没办法应付谎言
+
+--------------------------------------------------------------------------------
+en:If you lie to me, myanswers won't help you.
+vi:Nếu bác nói dối cháu,câu trả lời của cháu sẽ không giúp được bác.
+chi:你如果对我说谎我的回答没办法帮助你
+
+--------------------------------------------------------------------------------
+en:But, if you're scared,I can help you.
+vi:Nhưng nếu bác sợ, cháu có thể giúp bác.
+chi:但你如果是很害怕,我就能帮你
+
+--------------------------------------------------------------------------------
+en:I'm scared.
+vi:Tôi sợ.
+chi:我很害怕
+
+--------------------------------------------------------------------------------
+en:Okay.
+vi:Được thôi.
+chi:好
+
+--------------------------------------------------------------------------------
+en:You can't be back here.
+
+--------------------------------------------------------------------------------
+en:I need a knife.
+vi:- Cậu không được vào đây.- Tôi cần một con dao.
+chi:-你不能进来这里-我需要一把刀
+
+--------------------------------------------------------------------------------
+en:Where do you keep the knivespeople forget they're traveling with?
+vi:Ông giữ những con dao...
+chi:你们安检的时候
+
+--------------------------------------------------------------------------------
+en:A knife? Sure. Anything else?
+vi:Dao à? Chắc rồi.Còn gì nữa không?
+chi:刀啊?没问题,还需要什么吗?
+
+--------------------------------------------------------------------------------
+en:I do also need anarrow six-foot tube
+vi:Tôi cũng cần một ống hẹp dài 1,8 mét...
+chi:我还需要一条180公分长的细管子
+
+--------------------------------------------------------------------------------
+en:and high-proof alcohol andgloves and baggage-handling tape,
+vi:và rượu cùng găng tay...
+chi:还有高浓度酒精和手套还有行李胶带
+
+--------------------------------------------------------------------------------
+en:but I'm gonna get thealcohol from the duty-free store
+vi:cồn từ cửa hàng miễn thuế
+chi:但我会去免税店拿酒
+
+--------------------------------------------------------------------------------
+en:and the tube from theback of the soda machine.
+vi:còn ống thì ở đằng sau máy bán nước ngọt.
+chi:去汽水机后面拿管子
+
+--------------------------------------------------------------------------------
+en:I wish you all the luck with that,but I'm not gonna give you a knife.
+vi:Chúc cậu may mắn với chuyện đó.
+chi:祝你顺利
+
+--------------------------------------------------------------------------------
+en:I need a knife. It's very...There is a medical emergency.
+vi:Không tôi cần con dao. Nó rất...
+chi:不,我需要刀,是很…
+
+--------------------------------------------------------------------------------
+en:There's a medicalemergency. That one.
+vi:Có một tình huống cấp cứu khẩn cấp.Có một tình huống cấp cứu.
+chi:有紧急医疗状况
+
+--------------------------------------------------------------------------------
+en:That one right near the top looksvery sharp. Would you get it for me?
+vi:Cái đó, cái gần ngăn trên,trông nó rất bén.
+chi:就那一把,最上面的那把看起来很锐利
+
+--------------------------------------------------------------------------------
+en:I'm not gonna giveyou a knife. I'll ask...
+vi:Không, tôi sẽ không đưa dao cho cậu.
+chi:不行,我不能拿刀给你
+
+--------------------------------------------------------------------------------
+en:There's not the time.
+vi:- Tôi sẽ yêu cầu...- Không còn thời gian đâu.
+chi:-我去问…-没时间了
+
+--------------------------------------------------------------------------------
+en:Weapon! Weapon!
+vi:Vũ khí! Vũ khí!
+chi:武器!
+
+--------------------------------------------------------------------------------
+en:Move! Get out of the way!
+vi:Tránh đường! Tránh đường ra!
+chi:让开!
+
+--------------------------------------------------------------------------------
+en:Drop it.
+vi:Bỏ nó xuống.
+chi:你这笨蛋,你该庆幸我们没开枪
+
+--------------------------------------------------------------------------------
+en:You idiot! You're luckywe didn't just shoot.
+vi:Thằng ngu! Mày hên làtụi tao không bắn mày đấy.
+chi:你这笨蛋,你该庆幸我们没开枪
+
+--------------------------------------------------------------------------------
+en:No! He's trying tosave my son's life.
+vi:Không! Cậu ấy đang cố cứu mạng con trai tôi.
+chi:不,他是在救我儿子的命
+
+--------------------------------------------------------------------------------
+en:You get that consent on 104?
+vi:Cô có giấy chấp thuận của phòng 104 chưa?
+chi:104签同意书了吗?
+
+--------------------------------------------------------------------------------
+en:Well, I made him a deal.He's got a meeting with Dr. Max
+vi:Tôi đã thỏa thuận với bác ấy.
+chi:他六点会跟精神科的麦克斯医师见面
+
+--------------------------------------------------------------------------------
+en:from Psychiatry at 6:00.We'll get the consent by 8:00.
+vi:Bác ấy sẽ gặp Bs. Max bên khoa tâm lý,
+chi:他八点前就会签好同意书
+
+--------------------------------------------------------------------------------
+en:We can operate firstthing in the morning.
+vi:chúng ta có thểphẫu thuật ngay vào buổi sáng.
+chi:我们明天一早就能动手术了
+
+--------------------------------------------------------------------------------
+en:You did pass Anatomy,right, Dr. Browne?
+vi:Cô qua lớp giải phẩu rồi, phải không Bs. Brown?
+chi:你解剖学有过吧,布朗医师?
+
+--------------------------------------------------------------------------------
+en:His problem's in hisheart, not his head.
+vi:Vấn đề là ở tim,chứ không phải đầu của ông ấy.
+chi:他是心脏出问题,不是脑袋出问题
+
+--------------------------------------------------------------------------------
+en:He's not psychologically readyfor surgery. He will be soon.
+vi:Bác ấy chưa sẵn sàng tâm lýcho cuộc phẫu thuật.
+chi:他心理上还没准备好动手术
+
+--------------------------------------------------------------------------------
+en:He is physicallyready, so get consent.
+vi:Về thể chất thì ông ấy sẵn sàng rồi đấy.
+chi:快去叫他签同意书我们现在就开始准备第六手术室
+
+--------------------------------------------------------------------------------
+en:We're prepping OR-6 now.
+vi:Nên đi lấy giấy chấp thuận đi.Bọn tôi sẽ chuẩn bị phòng phẫu thuật số 6.
+chi:有17项研究结果指出
+
+--------------------------------------------------------------------------------
+en:Do I need to cite you the 17studies that show a correlation
+vi:Tôi có cần chỉ ra 17 nghiên cứu cho thấy...
+chi:有17项研究结果指出
+
+--------------------------------------------------------------------------------
+en:between attitude andoutcome in surgical patients?
+vi:sự tương quan giữa thái độ và kết quả...
+chi:是有相关性的
+
+--------------------------------------------------------------------------------
+en:Do I need to remind youthat I am your superior?
+vi:Tôi có cần nhắc rằngtôi là cấp trên của cô không?
+chi:我是你的上司
+
+--------------------------------------------------------------------------------
+en:You do know what theopposite of superior is, right?
+vi:Cô biết đối ngược của cấp trên là gì chứ?
+chi:你知道上司的相反是什么吧?
+
+--------------------------------------------------------------------------------
+en:Subordinate. It doesn't...
+
+--------------------------------------------------------------------------------
+en:Sure, subordinate,or inferior. Either way.
+vi:- Cấp dưới...- Đúng thế, cấp dưới, hoặc là... thấp kém.
+chi:-是下属,不…-是下属没错,或是下级
+
+--------------------------------------------------------------------------------
+en:It doesn't mean I'm wrong.
+vi:- Thế nào cũng được.- Nhưng không có nghĩa là tôi sai.
+chi:-两者都是-这不代表我说的是错的
+
+--------------------------------------------------------------------------------
+en:I suppose not. But it does meanyou have to act like you're wrong.
+vi:Tôi cho là không đâu.
+chi:但这代表你得照我的意思做
+
+--------------------------------------------------------------------------------
+en:He's panic-stricken. Yesterday,he was young and healthy.
+vi:Bác ấy đang hoảng loạn.
+chi:他昨天还很年轻很健康
+
+--------------------------------------------------------------------------------
+en:Today, he's mortal.
+vi:Hôm nay, tính mạng của bác ấy nguy kịch.
+chi:现在就面临了生命危险
+
+--------------------------------------------------------------------------------
+en:Just give him a chance towrap his head around that.
+vi:Cứ cho bác ấy cơ hộiđể bắt kịp với chuyện đó.
+chi:给他机会调适一下心情
+
+--------------------------------------------------------------------------------
+en:Dr. Kalu?
+
+--------------------------------------------------------------------------------
+en:Do you think you can get me asigned informed consent on 104?
+vi:Anh có thể lấy cho tôi...
+chi:你有没有办法让104签同意书?
+
+--------------------------------------------------------------------------------
+en:Of course.
+chi:-当然-谢谢
+
+--------------------------------------------------------------------------------
+en:Thank you.
+vi:- Tất nhiên rồi.- Cảm ơn.
+
+--------------------------------------------------------------------------------
+en:You think he's right?
+chi:你觉得他是对的吗?
+
+--------------------------------------------------------------------------------
+en:I think he's my boss.
+vi:Tớ nghĩ ông ấy là sếp của tớ.
+chi:我觉得他是我的上司
+
+--------------------------------------------------------------------------------
+en:And if I have to choose betweenmy boss and the woman I'm screwing,
+vi:Và nếu tớ phải chọn giữa sếp và...
+chi:如果我得在我的上司和炮友之间
+
+--------------------------------------------------------------------------------
+en:not much of achoice. Am I right?
+vi:chẳng giống như lựa chọn, phải không?
+chi:我当然要听上司的,对吧?
+
+--------------------------------------------------------------------------------
+en:Excuse me. Excuse me, please.
+vi:Thứ lỗi, thứ lỗi, làm ơn?
+chi:借过,借过一下
+
+--------------------------------------------------------------------------------
+en:Incision should takeplace two ribs down.
+vi:Vết cắt nên nằm ngay dưới xương sườn thứ hai.
+chi:应该要在第二根肋骨处下刀
+
+--------------------------------------------------------------------------------
+en:Okay, well, why the bottle?
+vi:Được rồi, sao lại là cái chai?
+chi:为什么要接到罐子?
+
+--------------------------------------------------------------------------------
+en:The air will continueto leak and accumulate
+vi:Khí sẽ tiếp tục tràn ra và tích lại...
+chi:空气会一直外漏并累积
+
+--------------------------------------------------------------------------------
+en:until the damage canbe properly repaired.
+vi:cho đến khi thương tổnco thể được chữa hoàn toàn.
+chi:直到损伤完成修复
+
+--------------------------------------------------------------------------------
+en:The tube allowsthe air to get out.
+vi:Cái ống cho phép khí thoát ra ngoài.
+chi:管子可以让空气排出来
+
+--------------------------------------------------------------------------------
+en:The water in the bottle stopsthe air from coming back in.
+vi:Nước trong chai sẽ ngăn không khí đi ngược vào.
+chi:酒瓶里面的水可以阻止空气回到体内
+
+--------------------------------------------------------------------------------
+en:A home-made one-way valve.
+vi:Van một chiều tự chế.
+
+--------------------------------------------------------------------------------
+en:He's breathing.
+vi:Cậu ấy thở rồi.
+
+--------------------------------------------------------------------------------
+en:You saved his life.He saved his life!
+vi:Cậu đã cứu mạng cậu ấy.
+chi:你救活他了
+
+--------------------------------------------------------------------------------
+en:Shaun, where are you?
+vi:Shaun, cháu đang ở đâu thế? Bác...
+chi:尚恩,你在哪里?我…
+
+--------------------------------------------------------------------------------
+en:Call me as soon as you can,please. That was a mistake.
+vi:Gọi lại cho bác ngay nhé.
+chi:请你尽快回电话给我
+
+--------------------------------------------------------------------------------
+en:I agree. This is notabout the new doctor.
+chi:因为重点不是新的医师,重点是你
+
+--------------------------------------------------------------------------------
+en:This is about you.They're baiting you,
+chi:他们是在引诱你,你快上钩了
+
+--------------------------------------------------------------------------------
+en:- and you're letting them.- Maybe.
+vi:Họ đang chọc ngoáy ông.Còn ông thì vẫn để họ làm vậy.
+chi:-或许吧-或许什么?
+
+--------------------------------------------------------------------------------
+en:Maybe what? What mistakeare you talking about?
+vi:Ông đang nói tới sai lầm gì thế?
+chi:你是在说不该怎样?
+
+--------------------------------------------------------------------------------
+en:- Your shot at Andrews' nephew.- Come on, it was funny.
+vi:- Việc cô nhắm tới cháu của Andrew.- Thôi nào. Vui mà.
+chi:-你刚刚不该提安德鲁的侄子-少来了,明明就很好笑
+
+--------------------------------------------------------------------------------
+en:It was very funny. Itwas also disrespectful.
+vi:- Rất vui đấy.- Nhưng cũng rất thiếu tôn trọng.
+chi:是很好笑,但也很没礼貌
+
+--------------------------------------------------------------------------------
+en:You don't show him respect. I assumeit's because you don't respect him.
+vi:Ông đâu thể hiện điều đó.
+chi:我还以为是因为你不尊重他
+
+--------------------------------------------------------------------------------
+en:You show someone respectbecause you respect them
+vi:Cô thể hiện sự tôn trọng với ai đóbởi vì cô tôn trọng họ,
+chi:对别人有礼貌是因为尊重对方或是害怕对方
+
+--------------------------------------------------------------------------------
+en:or because you're afraid ofthem. I don't fit into either category.
+vi:hoặc vì cô sợ họ.
+chi:我两者都不符合
+
+--------------------------------------------------------------------------------
+en:- Well, neither do I.- You should.
+vi:Vậy thì tôi cũng thế.
+chi:你是该尊重他
+
+--------------------------------------------------------------------------------
+en:You're only in that room becauseyour grandfather founded this hospital.
+vi:Lý do duy nhất cô có mặt trong căn phòng đó
+chi:你能当上董事会成员是因为
+
+--------------------------------------------------------------------------------
+en:I'm gonna pretend that thisconversation didn't take this tangent
+vi:Tôi sẽ vờ như cuộc nói chuyện này
+chi:我就假装你没有提那件事好了
+
+--------------------------------------------------------------------------------
+en:and instead focus on somethingrelevant, the debate you are losing.
+vi:không đi theo hướng đómà tập trung vào một việc khác
+chi:我是想跟你谈重要的事
+
+--------------------------------------------------------------------------------
+en:Here's how you win this.You don't make it personal.
+vi:Nếu ông muốn thắng, thì nghe tôi.
+chi:不要让这件事涉及私情
+
+--------------------------------------------------------------------------------
+en:You don't make it aboutyou. That is what they want,
+vi:Đừng làm như đó là chuyện của riêng ông.Đừng làm như ông là chủ đề chính.
+
+--------------------------------------------------------------------------------
+en:and if you give it tothem, you will lose.
+vi:Đó là điều họ muốn,và nếu ông cho họ điều đó,
+chi:他们就想要这样,你如果照著做
+
+--------------------------------------------------------------------------------
+en:I need to get to San JoseSaint Bonaventure Hospital.
+vi:Tôi cần tới bệnh viện thánhBonaventure, San Jose.
+chi:我得去圣荷西圣文德医院
+
+--------------------------------------------------------------------------------
+en:That's where we're going.
+vi:Ta đang tới đó đây.
+chi:-我们就是要去那里-很好
+
+--------------------------------------------------------------------------------
+en:Good.
+vi:Tốt rồi.
+
+--------------------------------------------------------------------------------
+en:How hard can it be to justact like a normal human being?
+vi:Khó đến vậy sao?
+chi:是有多困难?
+
+--------------------------------------------------------------------------------
+en:He doesn't know how.
+vi:- Thằng bé không biết làm thế nào.- Vớ vẩn!
+chi:-他就是不会啊-放屁
+
+--------------------------------------------------------------------------------
+en:Bull! What are wesupposed to do now?
+vi:Giờ ta phải làm gì? Hả?
+chi:我们现在该怎么办?
+
+--------------------------------------------------------------------------------
+en:This is the third schoolhe's been thrown out of.
+vi:Nó bị đuổi khỏi ba trường rồi đấy.
+chi:这是第三间把他赶出来的学校了
+
+--------------------------------------------------------------------------------
+en:We'll find another school.
+vi:Chúng ta sẽ tìm một trường khác.
+chi:才不会,这只会一直重复发生
+
+--------------------------------------------------------------------------------
+en:No, we won't, 'causenothing's gonna change.
+vi:Không, vì chẳng thay đổi được gì đâu.
+chi:才不会,这只会一直重复发生
+
+--------------------------------------------------------------------------------
+en:They can't handle him,and I don't blame them
+vi:Nhà trường chẳng thể lo được cho nó,anh cũng không thể đổ lỗi cho họ,
+chi:他们应付不了他,我也不怪他们
+
+--------------------------------------------------------------------------------
+en:'cause obviously wecan't handle him either.
+vi:vì rõ ràng ta cũng chẳng làm được gì.
+chi:因为显然连我们也应付不了他
+
+--------------------------------------------------------------------------------
+en:What the hell happenedthis time? What happened?
+vi:Lần này là chuyện quái gì nữa hả?
+chi:这次又怎么了?怎么回事?
+
+--------------------------------------------------------------------------------
+en:You're hurting him.
+vi:Anh đang làm thằng bé đau đấy.
+chi:你弄痛他了
+
+--------------------------------------------------------------------------------
+en:What did you do? Shaun!
+vi:Mày đã làm gì?!
+chi:-尚恩!-不!
+
+--------------------------------------------------------------------------------
+en:No!
+vi:Mày có thôi ôm ấpcon thỏ đần độn đó không?!
+
+--------------------------------------------------------------------------------
+en:Will you stop pettingthat stupid rabbit?
+vi:Mày có thôi ôm ấpcon thỏ đần độn đó không?!
+chi:你可以不要再摸那只蠢兔子了吗?
+
+--------------------------------------------------------------------------------
+en:It changed. Theboy's ECG changed.
+vi:Nó vừa thay đổi kìa.
+chi:他的心电图变了
+
+--------------------------------------------------------------------------------
+en:It's the same, 86 BPM.
+vi:Nó vẫn như trước... 86 nhịp một phút.
+chi:一样是每分钟86下
+
+--------------------------------------------------------------------------------
+en:No, it used to be higher.
+vi:Không. Lúc trước cao hơn.
+chi:不对,刚刚比较高
+
+--------------------------------------------------------------------------------
+en:No, it used tobe 86. It's still 86.
+vi:Không, lúc nãy là 86. Giờ vẫn là 86.
+chi:不对,刚刚就是86下现在还是86下
+
+--------------------------------------------------------------------------------
+en:It used to come up to here.
+chi:刚刚有这么高
+
+--------------------------------------------------------------------------------
+en:Lower amplitude means lower voltage.Lower amplitude means lower voltage.
+vi:Biên độ nhỏ hơn tức là điện áp thấp hơn.
+chi:波型变低代表电压变低
+
+--------------------------------------------------------------------------------
+en:What's going on?What does it mean?
+vi:Có chuyện gì vậy?Như thế nghĩa là sao?
+chi:怎么回事?那是什么意思?
+
+--------------------------------------------------------------------------------
+en:It means he's trying toread 20-year-old equipment
+vi:Nghĩa là cậu ấy đang cố gắngđọc chỉ số từ một thiết bị 20 năm tuổi
+chi:这个老设备已经用20年了
+
+--------------------------------------------------------------------------------
+en:while traveling in a vehiclegoing 40 miles an hour.
+vi:trên một chiếc xe đang đi hơn 60km/h.
+chi:救护车的时速又有65公里
+
+--------------------------------------------------------------------------------
+en:How did you get him to sign?
+vi:Cậu làm thế nào mà bác ấy chịu ký tên vậy?
+chi:你是怎么让他签同意书的?
+
+--------------------------------------------------------------------------------
+en:I simply told him he waseither consenting or going home.
+vi:Tớ chỉ đơn giản bảo bác ấyđồng ý phẫu thuật hoặc về nhà,
+chi:我跟他说不签同意书就得出院
+
+--------------------------------------------------------------------------------
+en:Then I gave him two formsand told him to pick one.
+chi:然后我拿了两张表单叫他选一张
+
+--------------------------------------------------------------------------------
+en:And you highlighted the ReleaseAgainst Medical Advice form
+vi:Và rồi cậu nhấn mạnh rằng
+chi:你有没有跟他强调
+
+--------------------------------------------------------------------------------
+en:that mentions the possibility ofdeath or permanent disability?
+vi:để cập đến "khả năng tử vonghoặc tàn tật vĩnh viễn"?
+chi:“死亡或永久障碍”那段?
+
+--------------------------------------------------------------------------------
+en:Well done. Hand methe Metz and a pickup.
+vi:Làm tốt lắm.
+chi:给我剪刀和夹取钳
+
+--------------------------------------------------------------------------------
+en:I'm isolating theascending aorta.
+vi:Tôi đang cô lập động mạch chủ.
+chi:我要把降主动脉夹起来
+
+--------------------------------------------------------------------------------
+en:Vascular clamp.
+
+--------------------------------------------------------------------------------
+en:Hey, what is that?Under the left atrium.
+vi:Cái gì kia?
+chi:那是什么?
+
+--------------------------------------------------------------------------------
+en:Something white. Isthat part of the lung?
+vi:có gì đó trăng trắng.
+chi:左心房下面那个白白的东西
+
+--------------------------------------------------------------------------------
+en:It's pus. Did he have TB?
+vi:Là mủ.
+chi:-他有肺结核吗?-没有,他没有任何…
+
+--------------------------------------------------------------------------------
+en:No, he doesn't have any...
+vi:Không, không có biểu hiện...
+chi:我不是说现在,他有没有病史?
+
+--------------------------------------------------------------------------------
+en:No, not currently.Does he have a history...
+vi:Không phải hiệu tại.Ông ấy có tiền sử bệnh...
+chi:他之前有接触到…
+
+--------------------------------------------------------------------------------
+en:When he was a younger,he was exposed to...
+vi:Lúc còn trẻ,ông ấy đã từng tiếp xúc với...
+
+--------------------------------------------------------------------------------
+en:This is an abscess.It's going to...
+vi:Đây là một ổ tụ mủ. Nó sẽ...
+chi:这是脓疮,会破…
+
+--------------------------------------------------------------------------------
+en:Suction and a lapsponge. His BP's crashing.
+vi:Hút và băng gạc.Huyết áp ông ấy đang giảm.
+chi:抽吸和纱布,他的血压急速下降中
+
+--------------------------------------------------------------------------------
+en:Two liters saline wide open.
+vi:Hai lít nước muối phẫu thuật.
+chi:两公升生理食盐水,开到最快
+
+--------------------------------------------------------------------------------
+en:Set up level one. Twounits packed cells now.
+vi:Thiết lập mức một.Hai đơn vị ngay.
+chi:使用急速输血加温系统马上输两包红血球浓厚液
+
+--------------------------------------------------------------------------------
+en:Let's get Levophed on boardand keep that MAP at 60.
+vi:Lấy Levophed và giữ áp lực động mạch ở mức 60.
+chi:用力复菲德把平均动脉压维持在60
+
+--------------------------------------------------------------------------------
+en:Get in there with the suction.I can't see a damn thing.
+vi:Hút đi nhanh lên.Tôi không thấy cái quái gì hết.
+chi:快点吸干净,我什么都看不到
+
+--------------------------------------------------------------------------------
+en:Suction.
+vi:Hút.
+chi:希望他知道后不会太生气
+
+--------------------------------------------------------------------------------
+en:I hope it isn't tooupsetting to him
+vi:Tôi hy vọng sẽ không làmông ấy quá khó chịu khi nghe tin
+chi:希望他知道后不会太生气
+
+--------------------------------------------------------------------------------
+en:when he hears he'd have died inhis room if we'd waited till tomorrow.
+vi:ông ta có thể chết ngay trong phòng
+chi:他如果等到明天就会死在病房里
+
+--------------------------------------------------------------------------------
+en:Dr. Melendez, we've got anincoming eight-year-old male,
+vi:Bác sĩ Melendez, chúng ta cómột bệnh nhân nam 8 tuổi đang tới,
+chi:梅伦戴兹医师有一名八岁男童即将到院
+
+--------------------------------------------------------------------------------
+en:pneumothorax stabilized butundetermined internal injuries.
+vi:tràn khí màng phổi đã được kiểm soát,
+chi:但是有不明内伤
+
+--------------------------------------------------------------------------------
+en:Who do you want to catch?
+vi:Ai sẽ nhận đây?
+chi:克莱儿,这里应该不需要你
+
+--------------------------------------------------------------------------------
+en:Claire, I don'tthink we need you.
+vi:Claire, tôi không nghĩ chúng tôi cần đến cô.
+chi:克莱儿,这里应该不需要你
+
+--------------------------------------------------------------------------------
+en:This patient isgonna be fine now.
+vi:Bệnh nhân này sẽ ổn thôi... đi đi.
+chi:这个病患现在不会有事了
+
+--------------------------------------------------------------------------------
+en:Eight-year-old healthy boy.
+vi:Bé trai 8 tuổi khỏe mạnh,
+chi:病患很健康,今年八岁
+
+--------------------------------------------------------------------------------
+en:Status, post encounterwith a shattered glass sign.
+vi:bi mảnh vỡ của một biển quảng cáodội lên người.
+chi:他遭到碎玻璃刺伤
+
+--------------------------------------------------------------------------------
+en:- Numerous lacerations.- Echo.
+vi:Có nhiều vết rách.
+
+--------------------------------------------------------------------------------
+en:Get him set up in Trauma 3with an EKG, full blood work,
+vi:- Siê...- Đưa vào phòng trấn thương 3.
+chi:做心电图、完整血液检验和全身断层扫描
+
+--------------------------------------------------------------------------------
+en:and a pan scan.
+vi:Ta cần siêu tâm... siêu âm tim.
+
+--------------------------------------------------------------------------------
+en:- We need an echo. Echocardiogram.- Who is this guy?
+vi:Ta cần siêu tâm... siêu âm tim.
+chi:-需要做心脏超音波-他是谁?
+
+--------------------------------------------------------------------------------
+en:He helped withfirst-aid at the airport.
+vi:- Anh ta là ai vậy?- Anh ấy đã giúp sơ cứu ở sân bay.
+chi:他是在机场帮忙急救的人
+
+--------------------------------------------------------------------------------
+en:I'm a doctor. He needsan echocardiogram.
+vi:Tôi là bác sĩ.Cậu bé cần được siêu âm tim.
+chi:我是医生,他需要做心脏超音波
+
+--------------------------------------------------------------------------------
+en:Where are you taking him?
+vi:- Cô đưa thằng bé đi đâu vậy?- Đi phẫu thuật.
+chi:-你们要把他带到哪里?-带去开刀
+
+--------------------------------------------------------------------------------
+en:To surgery. All cardiac vitalsigns are within normal range.
+vi:Tất cả các chỉ số đều bình thường.
+chi:所有心脏数据都在正常范围内
+
+--------------------------------------------------------------------------------
+en:- Do you have any ID?- No. His heart. It's his heart.
+vi:- Anh có thẻ căn cước không?- Không. Tim... của cậu bé. Tim của cậu bé.
+chi:不,他的心脏,是他的心脏
+
+--------------------------------------------------------------------------------
+en:His heart is fine.Now, stay here.
+vi:Tim của thằng bé không sao hết.Giờ thì ở yên đây.
+chi:他的心脏没问题,你先待在这里
+
+--------------------------------------------------------------------------------
+en:Adam needs an echocardiogram.
+vi:Adam cần siêu âm tim.
+chi:亚当需要做心脏超音波
+
+--------------------------------------------------------------------------------
+en:No. Behave yourself, or you'llbe removed from the building.
+vi:Không. Anh thôi ngay đi.Hoặc anh sẽ phải ra khỏi đây đấy.
+chi:不,听话一点不然我就请人把你赶出去
+
+--------------------------------------------------------------------------------
+en:Echo... Echo...
+vi:Siêu âm. Phải siêu âm.
+chi:心脏超音波…
+
+--------------------------------------------------------------------------------
+en:What's that?
+chi:单向阀
+
+--------------------------------------------------------------------------------
+en:A one-way valve. EMT reportsthe boy suffered a pneumothorax.
+vi:Một cái van một chiều.
+chi:紧急救护技术员说病患气胸
+
+--------------------------------------------------------------------------------
+en:That is cool.
+vi:Cái này tuyệt thật đấy.
+
+--------------------------------------------------------------------------------
+en:Do you think we shoulddo an echocardiogram?
+vi:Anh có nghĩ ta nên làm siêu âm tim không?
+chi:我们该不该做心脏超音波?
+
+--------------------------------------------------------------------------------
+en:Based on the presentingsymptoms, which give no indication
+vi:Những triệu chứng hiện tại không cho thấy
+chi:就目前的症状来看
+
+--------------------------------------------------------------------------------
+en:that an echocardiogram isnecessary, I'm going to answer no.
+vi:siêu âm tim là cần thiết,
+chi:没有任何需要做心脏超音波的迹象
+
+--------------------------------------------------------------------------------
+en:Am I missing something?
+vi:Tôi quên gì sao?
+chi:没有
+
+--------------------------------------------------------------------------------
+en:No, sir.
+vi:Không, thưa bác sĩ.
+chi:手术刀
+
+--------------------------------------------------------------------------------
+en:Knife.
+chi:手术刀
+
+--------------------------------------------------------------------------------
+en:We don't normallytreat rabbits, especially...
+vi:Ở đây thường không điều trịcho thỏ, đặc biệt là...
+chi:我们通常是不治疗兔子的,尤其…
+
+--------------------------------------------------------------------------------
+en:This was the closest doctorplace, and it was an emergency.
+vi:Chỗ này là cơ sở y tế gần nhất,và đây là trường hợp khẩn cấp mà.
+chi:这是最近的诊所了,状况很紧急
+
+--------------------------------------------------------------------------------
+en:No, I can see that.But even if I was a vet,
+vi:Bác biết.
+chi:我看得出来,但就算我是兽医
+
+--------------------------------------------------------------------------------
+en:the rabbit is dead.
+chi:这只兔子也已经死了
+
+--------------------------------------------------------------------------------
+en:I'm sorry, guys.
+
+--------------------------------------------------------------------------------
+en:Everything smellsdifferent when it rains.
+chi:下雨的时候所有东西味道都不一样了
+
+--------------------------------------------------------------------------------
+en:What do we do now?
+vi:Bọn cháu sẽ làm gì bây giờ?
+
+--------------------------------------------------------------------------------
+en:Well, you shouldbury him, I guess.
+vi:Bác thấy các cháu nên chôn nó.
+chi:你们应该把它埋起来
+
+--------------------------------------------------------------------------------
+en:I don't know. Givehim a nice funeral.
+vi:Bác không biết,hãy làm cho nó một... tang lễ tử tế.
+chi:再帮他办个小葬礼
+
+--------------------------------------------------------------------------------
+en:Has he gone to heaven?
+vi:Nó đã lên thiên đường rồi sao?
+chi:它上天堂了吗?
+
+--------------------------------------------------------------------------------
+en:Yeah, sure. Sure. Sure, he has.
+vi:Ừ, đúng vậy.Bác chắc chắn là vậy.
+chi:当然,它上天堂了
+
+--------------------------------------------------------------------------------
+en:No, I don't want him to go toheaven. I want him to be here.
+vi:Không, cháu không muốnnó lên thiên đường! Cháu muốn nó ở đây!
+chi:不,我不希望它上天堂我希望它在这里
+
+--------------------------------------------------------------------------------
+en:This won't happen again.
+vi:Chuyện này sẽ không xảyra thêm một lần nào nữa.
+
+--------------------------------------------------------------------------------
+en:It can't happenagain. He's dead.
+vi:Nó chết rồi, chẳng thể có thêm lần nào nữa.
+chi:-这不会再次发生,它已经死了-我知道
+
+--------------------------------------------------------------------------------
+en:I know that.
+vi:Em biết.
+
+--------------------------------------------------------------------------------
+en:I mean, nothing like this is evergoing to happen to us ever again.
+vi:Ý em là sẽ không có chuyện tương tựxảy ra với chúng ta nữa,
+chi:我是指我们再也不会遇到这种事了
+
+--------------------------------------------------------------------------------
+en:Because we're not going home.
+vi:Vì chúng ta sẽ không về nhà.
+chi:因为我们不要回家
+
+--------------------------------------------------------------------------------
+en:We're never going home again.
+chi:我们再也不要回家了
+
+--------------------------------------------------------------------------------
+en:We have each other,and that's all we need.
+vi:Chỉ cần anh em mình ở bên nhau,ta chỉ cần có thế thôi.
+chi:我们只要有彼此就好了
+
+--------------------------------------------------------------------------------
+en:A surgeon needs to communicate,
+vi:Một bác sĩ phẫu thuậtcần phải truyền đạt...
+chi:外科医生必须要能沟通
+
+--------------------------------------------------------------------------------
+en:not just informationbut sympathy, empathy.
+vi:không chỉ là thông tin,mà cả sự thấu hiểu và đồng cảm.
+chi:不只是传达资讯
+
+--------------------------------------------------------------------------------
+en:Can Dr. Murphy do that?
+vi:Bác sĩ Murphy có làm được việc đó không?
+chi:墨菲医生办得到吗?
+
+--------------------------------------------------------------------------------
+en:He can't even reliablyshow up for a job interview.
+chi:他连准时来面试都没办法
+
+--------------------------------------------------------------------------------
+en:Are you going tosit here and tell us
+chi:难道其他年轻的外科医师
+
+--------------------------------------------------------------------------------
+en:that there were no otherequally qualified young surgeons,
+vi:Ông vẫn sẽ ngồi đóvà nói với chúng tôi rằng
+chi:都没有人能力跟他一样好吗?
+
+--------------------------------------------------------------------------------
+en:surgeons withoutthis one's issues?
+vi:mà không có... vấn đề như cậu ta sao?
+chi:没有自闭症的其他医师
+
+--------------------------------------------------------------------------------
+en:No, which is why, exactlywhy, we should hire Shaun.
+vi:Không.
+chi:这正是我们该聘用尚恩的原因
+
+--------------------------------------------------------------------------------
+en:We should hire him because he isqualified and because he's different.
+vi:Chúng ta nên nhận cậu ấybởi cậu ấy có tài năng
+chi:我们应该聘用他是因为他够资格
+
+--------------------------------------------------------------------------------
+en:How long ago was it that we wouldn'thire black doctors in this hospital?
+vi:Đã bao lâu rồi chúng ta không nhận
+chi:我们医院之前
+
+--------------------------------------------------------------------------------
+en:How long ago was it that wewouldn't hire female doctors
+vi:Có bao nhiêu...Đã bao lâu ta chưa nhận
+chi:我们医院之前
+
+--------------------------------------------------------------------------------
+en:at this hospital?
+vi:một nữ bác sĩ vào bệnh viện?
+chi:你这是在拿女性和非裔美籍人
+
+--------------------------------------------------------------------------------
+en:So you're comparing beingAfrican-American or a woman
+vi:Vậy là ông đang so sánhngười Mỹ gốc Phi
+chi:你这是在拿女性和非裔美籍人
+
+--------------------------------------------------------------------------------
+en:with being autistic?Please, go on.
+vi:hay phụ nữ với người tự kỷ sao?
+chi:跟自闭症相比吗?
+
+--------------------------------------------------------------------------------
+en:Okay.
+chi:好
+
+--------------------------------------------------------------------------------
+en:The rationalizationis exactly the same.
+vi:Sự hợp lý chính xác là như nhau.
+chi:导致这些事件的合理化行为都是一样的
+
+--------------------------------------------------------------------------------
+en:Words like "temperament,"and, "Oh, no.
+chi:说他们性格不适合还有说:“不行
+
+--------------------------------------------------------------------------------
+en:"Oh! How are thepatients going to react?"
+vi:Những câu như "thái độ" và "Ôi, không!
+chi:病患会有什么反应?”
+
+--------------------------------------------------------------------------------
+en:Aren't we judged byhow we treat people?
+vi:Chúng ta không bị đánh giábởi cách mình đối xử với người khác sao?
+chi:我们是以对待别人的方式被评断的对吧?
+
+--------------------------------------------------------------------------------
+en:I don't mean as doctors.I mean as people.
+vi:Ý tôi không phải là bác sĩ.Mà là người bình thường.
+chi:我不是指身为医师,我是指身为人
+
+--------------------------------------------------------------------------------
+en:Especially those who don't havethe same advantages that we have.
+vi:Đặc biệt những người... không có
+chi:尤其是那些
+
+--------------------------------------------------------------------------------
+en:We hire Shaun, and we givehope to those people with limitations
+vi:Chúng ta thuê Shaun,và ta trao hy vọng cho những người
+chi:我们如果聘用尚恩就能为那些有障碍的人带来希望
+
+--------------------------------------------------------------------------------
+en:that those limitations arenot what they think they are.
+vi:với nhiều hạn chế mà những hạn chế đó
+chi:让他们知道他们不会被那些障碍所困
+
+--------------------------------------------------------------------------------
+en:That they do have a shot.
+chi:他们是有机会的!
+
+--------------------------------------------------------------------------------
+en:We hire Shaun, and wemake this hospital better for it.
+vi:Chúng ta thuê Shaun,và ta sẽ khiến bệnh viện này tốt hơn.
+chi:我们如果聘用尚恩
+
+--------------------------------------------------------------------------------
+en:We hire Shaun, and weare better people for it.
+vi:Chúng ta thuê Shaun,và chúng ta là những người tốt hơn.
+chi:我们如果聘用尚恩
+
+--------------------------------------------------------------------------------
+en:We'd be better people
+vi:Chúng ta sẽ là những người tốt hơn,
+chi:我们会变成更好的人
+
+--------------------------------------------------------------------------------
+en:spending a lot more onmalpractice insurance.
+chi:会多花很多钱在过失责任保险上
+
+--------------------------------------------------------------------------------
+en:How old is this kid again?
+chi:-这孩子几岁?-八岁
+
+--------------------------------------------------------------------------------
+en:Eight.
+vi:- Đứa bé này bao nhiêu tuổi cơ?- 8.
+chi:海绵棒
+
+--------------------------------------------------------------------------------
+en:Sponge stick.
+
+--------------------------------------------------------------------------------
+en:What was his heartrate five minutes ago?
+vi:Nhịp tim năm phút trước là gì?
+chi:他心率五分钟前是多少?
+
+--------------------------------------------------------------------------------
+en:Eighty-six.
+chi:-86-你确定吗?
+
+--------------------------------------------------------------------------------
+en:You sure?
+vi:- 86.- Cậu chắc chứ?
+
+--------------------------------------------------------------------------------
+en:Certain. He's been arock. It's barely changed.
+vi:Chắc. Cậu bé như tảng đá.Nó hầu như không thay đổi.
+chi:确定,他状况很稳定,几乎没有变过
+
+--------------------------------------------------------------------------------
+en:No, something's changed.Something's different.
+vi:Tôi có đồ còn sạch trong túi.Cái gì đó khác thường.
+chi:不对,有东西变了,有东西不一样了
+
+--------------------------------------------------------------------------------
+en:You asked earlier about anecho? You had no medical reason,
+vi:Lúc nãy cô hỏi về siêu âm tim.
+chi:你刚刚问我心脏超音波的事
+
+--------------------------------------------------------------------------------
+en:but you asked anyway. Why?
+vi:Không có lý do y khoa nàonhưng cô vẫn hỏi. Tại sao?
+chi:应该完全没有理由问才对你为什么会问?
+
+--------------------------------------------------------------------------------
+en:There was this weird guy, theone that did the one-way valve.
+vi:Là cái gã kì lạ, kẻ đã làm
+chi:做了那个单向阀的怪人
+
+--------------------------------------------------------------------------------
+en:He kept insisting that the boyneeded an echocardiogram.
+vi:van một chiều, hắn cứ khăng khăng
+chi:他一直坚持病患需要做心脏超音波
+
+--------------------------------------------------------------------------------
+en:- He didn't say why?- He was really weird.
+chi:-他没说为什么吗?-他很奇怪
+
+--------------------------------------------------------------------------------
+en:His blood pressure'sdropping. That makes no sense.
+vi:Huyết áp cậu bé đang giảm. Thật vô lý.
+chi:他血压降了,没道理啊
+
+--------------------------------------------------------------------------------
+en:He's not bleeding anymore.Everything's under control.
+chi:他已经没出血了,一切都控制住了
+
+--------------------------------------------------------------------------------
+en:Do an echo.
+chi:做心脏超音波
+
+--------------------------------------------------------------------------------
+en:Sir, the boy's wide open.It's gonna take a while.
+vi:Thưa Bs, cậu bé đang phẫu thuật.Sẽ phải mất một lúc.
+chi:我们已经帮他开胸了会需要一点时间
+
+--------------------------------------------------------------------------------
+en:Good. That'll give me time to figureout why the hell we're doing an echo.
+vi:Tốt. Tôi sẽ có thời gian tìm hiểu
+chi:很好,那我就有时间搞清楚
+
+--------------------------------------------------------------------------------
+en:Dr. Browne, you're withme. We're gonna go find
+vi:Bs. Browne, đi với tôi.
+chi:我们去找那个怪人
+
+--------------------------------------------------------------------------------
+en:your weird guy. Keep him stable.
+vi:Chúng ta sẽ tìm anh bạn kì lạ của cô.
+chi:让病患维持稳定
+
+--------------------------------------------------------------------------------
+en:Why the echo?
+chi:为什么要做心脏超音波?
+
+--------------------------------------------------------------------------------
+en:Okay. The... The...Okay. The... I...
+vi:Ừm, À. Cậu bé... Ừm.
+chi:好,他…好
+
+--------------------------------------------------------------------------------
+en:Okay. I understand you thinkhe needs an echocardiogram.
+vi:Được rồi. Tôi biết anh nghĩcậu bé cần siêu âm tim.
+chi:我知道你觉得他需要做心脏超音波
+
+--------------------------------------------------------------------------------
+en:We just don't know why.
+chi:我们只是不知道为什么
+
+--------------------------------------------------------------------------------
+en:Well, I noticed that there wasa slight reduction in the intensity
+vi:Tôi nhận thấy có sự giảm nhẹ
+chi:我发现他心电图上的
+
+--------------------------------------------------------------------------------
+en:of the electrocardiogram.
+vi:cường độ của sóng điện tim.
+chi:波型幅度有稍微减少
+
+--------------------------------------------------------------------------------
+en:The electrical flow?I noticed that, too.
+vi:Dòng điện...Tôi cũng nhận thấy.
+chi:电流变小了,我也有注意到
+
+--------------------------------------------------------------------------------
+en:The heart rate was the samebut the amplitude dropped.
+vi:Nhịp tim là như nhau,nhưng biên độ thì giảm.
+chi:心率是一样的,但波幅减少了
+
+--------------------------------------------------------------------------------
+en:Pericardial effusion.
+vi:Tràn dịch màng ngoài tim.
+
+--------------------------------------------------------------------------------
+en:Reduced cardiac output.
+vi:Giảm lượng máu đẩy đi.
+
+--------------------------------------------------------------------------------
+en:Would stress other organs.
+vi:Sẽ làm các cơ quan khác suy nhược
+chi:会影响其他器官
+
+--------------------------------------------------------------------------------
+en:Causing them to shut down.
+vi:nên chúng phải ngừng hoạt động.
+chi:导致其他器官衰竭
+
+--------------------------------------------------------------------------------
+en:Yes.
+chi:对
+
+--------------------------------------------------------------------------------
+en:Hold on. Yeah. We'recoming right back up.
+vi:Chờ đã.
+chi:等等
+
+--------------------------------------------------------------------------------
+en:Thank you.
+vi:Cảm ơn.
+chi:谢谢
+
+--------------------------------------------------------------------------------
+en:They did the echo. It'snormal. No pericardial effusion.
+vi:Họ đã siêu âm tim. Nó bình thường.
+chi:他们做了心脏超音波,结果正常
+
+--------------------------------------------------------------------------------
+en:No, it has to be. Thereis no other explanation.
+vi:Không, phải là như vậy.Không có lời giải thích nào khác cả.
+chi:一定有,没有其他可能了
+
+--------------------------------------------------------------------------------
+en:The echo is normal, whichmeans we just wasted our time.
+chi:超音波结果正常代表我们这是在浪费时间
+
+--------------------------------------------------------------------------------
+en:No.
+vi:K-Không.
+
+--------------------------------------------------------------------------------
+en:Okay. Hey. Comewith me. Come on.
+vi:Được rồi, đi với tôi.
+chi:好吧,嘿,你跟我来
+
+--------------------------------------------------------------------------------
+en:Show them.
+chi:给他看
+
+--------------------------------------------------------------------------------
+en:Again.
+vi:Lần nữa.
+chi:再一次
+
+--------------------------------------------------------------------------------
+en:Again.
+chi:再一次
+
+--------------------------------------------------------------------------------
+en:Again.
+vi:Lần nữa.
+chi:再一次
+
+--------------------------------------------------------------------------------
+en:There.
+vi:Ở đó.
+chi:这里
+
+--------------------------------------------------------------------------------
+en:Looks normal to me.
+vi:Tôi thấy bình thường mà.
+
+--------------------------------------------------------------------------------
+en:It's not normal. There's a concavedeformity in the right atrium.
+vi:Nó không hề bình thường.
+chi:右心房有凹陷变形
+
+--------------------------------------------------------------------------------
+en:No, there's not.
+vi:Ừm, không, đâu có.
+chi:并没有
+
+--------------------------------------------------------------------------------
+en:Yes, there is. It's very subtle.
+vi:Có, có đấy. Nó rất khó thấy.
+chi:有,只是很轻微而已
+
+--------------------------------------------------------------------------------
+en:Even if you areright, that's not
+vi:Thậm chí nếu cậu đúng,
+
+--------------------------------------------------------------------------------
+en:where a pericardialeffusion manifests.
+vi:đó cũng không phải nơi xuất hiện tràn dịch.
+chi:心包膜积液也不会发生在那里
+
+--------------------------------------------------------------------------------
+en:Not usually. But it could.
+vi:Hiếm gặp.
+chi:通常不会
+
+--------------------------------------------------------------------------------
+en:This kid was sprayed withglass shards. Cut his jugular.
+vi:Đứa trẻ này bị kính văng vào... cắt vào cổ.
+chi:他被一堆玻璃碎片刺到了还割到了颈静脉
+
+--------------------------------------------------------------------------------
+en:What if a piece of glassentered his bloodstream?
+vi:Nếu một mảnh lọt vàomạch máu của nó thì sao?
+chi:如果有一块玻璃进到了他的血流呢?
+
+--------------------------------------------------------------------------------
+en:It could have traveleddown the jugular vein
+vi:Nó có thể đi xuống tĩnh mạch cổ,
+chi:有可能会在颈静脉里往下走
+
+--------------------------------------------------------------------------------
+en:into the brachiocephalic veinand onto the superior vena cava.
+vi:vào tĩnh mạch tay đầu
+chi:进到头臂静脉
+
+--------------------------------------------------------------------------------
+en:If it punctured the SVC, a blockcould be leaking behind the heart,
+vi:Nếu nó đâm thủngtĩnh mạch chủ trên, máu có thể bị chảy
+chi:如果刺穿了上腔静脉心脏后面就有可能会漏血
+
+--------------------------------------------------------------------------------
+en:restricting the heart's ability toexpand and fill during diastole,
+vi:ra sau tim,làm hạn chế khả năng
+chi:导致心脏舒张时没办法完全扩张填满血液
+
+--------------------------------------------------------------------------------
+en:reducing the heart's efficiency.
+vi:làm giảm hiệu quả của tim.
+chi:降低心脏的效率
+
+--------------------------------------------------------------------------------
+en:Lot of ifs there.
+vi:Có quá nhiều từ "nếu" rồi.
+chi:这机率太低了
+
+--------------------------------------------------------------------------------
+en:Dr. Chen,
+chi:陈医师
+
+--------------------------------------------------------------------------------
+en:prepare a 14-gaugeon the syringe.
+vi:Bs. Chen, chuẩn bị bơm tiêm với kim 14G.
+chi:注射器接14号管
+
+--------------------------------------------------------------------------------
+en:All in favor of ratifyingDr. Glassman's decision in hiring
+vi:Những ai ủng hộ quyết định của Bs. Glassman
+chi:同意核准葛拉斯曼医师
+
+--------------------------------------------------------------------------------
+en:Dr. Shaun Murphy?
+vi:về việc thuê Bs. Shaun Murphy?
+
+--------------------------------------------------------------------------------
+en:All against?
+vi:Ai phản đối?
+chi:反对的请举手
+
+--------------------------------------------------------------------------------
+en:Excuse me.
+vi:Xin thứ lỗi.
+
+--------------------------------------------------------------------------------
+en:- Is this a medical emergency?- No, no medical emergency.
+vi:Là tình huống khẩn cấp sao?
+chi:-不好意思-有什么紧急医疗状况吗?
+
+--------------------------------------------------------------------------------
+en:Then you weren'tsupposed to interrupt...
+vi:Vậy thì cô không nên cắt ngang...
+chi:-那你就不该打断…-是,我知道
+
+--------------------------------------------------------------------------------
+en:Yes, I know, butyou need to go online.
+vi:Vâng, tôi biết, nhưng mọingười cần lên mạng đi.
+chi:但你们必须上网
+
+--------------------------------------------------------------------------------
+en:What? What site?
+
+--------------------------------------------------------------------------------
+en:Pretty much any of them. Twitter,YouTube, any local news site.
+vi:- Hả? Trang nào?- Rất nhiều trang...
+chi:推特、YouTube每一个地方新闻网站
+
+--------------------------------------------------------------------------------
+en:You saved his life.
+vi:Cậu ấy cứu mạng cậu bé!
+chi:(医生在圣荷西机场救活男童)
+
+--------------------------------------------------------------------------------
+en:The YouTube clip alreadyhas over 200,000 views.
+vi:Đoạn clip YouTube hiện đã hơn 200k lượt xem.
+chi:这个YouTube影片观看次数已经超过20万
+
+--------------------------------------------------------------------------------
+en:Apparently, he'sone of our doctors.
+vi:Rõ ràng, cậu ấy là một trong số bác sĩ của ta.
+chi:听说他是我们医院的医生
+
+--------------------------------------------------------------------------------
+en:Dr. Shaun Murphy saved this boy.
+chi:尚恩墨菲医师救活了这个孩子?
+
+--------------------------------------------------------------------------------
+en:The boy is in OR-2. Dr. Melendezisn't sure if he's going to make it.
+vi:Cậu bé trong phòng mổ 2.
+chi:他在第二手术室
+
+--------------------------------------------------------------------------------
+en:Your fiancé surecan handle a knife.
+vi:Vị hôn thê của cô chắcrằng có thể cầm được dao.
+chi:你未婚夫开刀的技术真好
+
+--------------------------------------------------------------------------------
+en:Why did you warn me aboutrespecting Dr. Andrews?
+vi:Tại sao ông cảnh báo tôivề việc tôn trọng Bs.Andrews?
+chi:你为什么警告我要尊重安德鲁医师?
+
+--------------------------------------------------------------------------------
+en:What's going on?
+vi:Có chuyện gì vậy?
+chi:怎么回事?
+
+--------------------------------------------------------------------------------
+en:I'm not gonna alwaysbe here to protect you.
+vi:Tôi không phải lúc nào cũng ở đây bảo vệ cô.
+chi:我不会永远都在这里保护你
+
+--------------------------------------------------------------------------------
+en:You think you're gonna lose?
+chi:你觉得你会输吗?
+
+--------------------------------------------------------------------------------
+en:Everybody loses eventually.
+vi:Sau cùng thì...
+chi:所有人迟早…
+
+--------------------------------------------------------------------------------
+en:Is that your guy?
+chi:就是他吗?
+
+--------------------------------------------------------------------------------
+en:Can we get a TV?
+vi:Chúng ta có TV được không?
+chi:我们可以买一台电视吗?
+
+--------------------------------------------------------------------------------
+en:No.
+vi:Không.
+
+--------------------------------------------------------------------------------
+en:Why not?
+chi:-不行-为什么?
+
+--------------------------------------------------------------------------------
+en:Because we're poor,dude. We live in a bus.
+vi:Vì chúng ta nghèo, anh bạn.
+chi:因为我们很穷,我们住在校车上
+
+--------------------------------------------------------------------------------
+en:Do you think Momis looking for us?
+vi:Em có nghĩ mẹ sẽ tìm tụi mình không?
+chi:你觉得妈有在找我们吗?
+
+--------------------------------------------------------------------------------
+en:No.
+chi:没有
+
+--------------------------------------------------------------------------------
+en:She loves us, but sheknows it's better this way.
+chi:她很爱我们
+
+--------------------------------------------------------------------------------
+en:I got you a present.
+chi:我有礼物要送你
+
+--------------------------------------------------------------------------------
+en:It's not my birthday.
+vi:Đâu phải sinh nhật anh đâu.
+chi:今天不是我生日
+
+--------------------------------------------------------------------------------
+en:I got you a present anyway.
+vi:Dù gì em cũng có quà.
+chi:我还是有礼物要送你
+
+--------------------------------------------------------------------------------
+en:Here.
+chi:我帮你
+
+--------------------------------------------------------------------------------
+en:Kelly.
+chi:止血钳
+
+--------------------------------------------------------------------------------
+en:Dr. Browne,
+chi:布朗医师
+
+--------------------------------------------------------------------------------
+en:you were right.
+chi:你说的没错
+
+--------------------------------------------------------------------------------
+en:I don't like pickles.
+chi:-我不喜欢酸黄瓜-我知道
+
+--------------------------------------------------------------------------------
+en:I know.
+vi:- Cháu không thích dưa muối.- Bác biết.
+chi:-我不想要酸黄瓜-我检查过了
+
+--------------------------------------------------------------------------------
+en:I don't want pickles.
+
+--------------------------------------------------------------------------------
+en:And I checked.
+vi:- Cháu không muốn dưa muối.- Và bác kiểm rồi.
+
+--------------------------------------------------------------------------------
+en:You saved that boy's life.
+vi:Cháu cứu mạng đứa bé đó.
+chi:你救了他一命
+
+--------------------------------------------------------------------------------
+en:Oh, good.
+vi:Ồ, tốt.
+chi:那很好
+
+--------------------------------------------------------------------------------
+en:His name is Adam.Traumatic pneumothorax.
+vi:Cậu bé tên Adam.
+chi:他叫亚当
+
+--------------------------------------------------------------------------------
+en:I'm hungry.
+chi:我饿了
+
+--------------------------------------------------------------------------------
+en:The board reconvenesin 45 minutes.
+chi:45分钟后要继续开董事会了
+
+--------------------------------------------------------------------------------
+en:Can you stay hereuntil I get back?
+chi:你可以待在这里等我回来吗?
+
+--------------------------------------------------------------------------------
+en:Okay.
+vi:Vâng.
+chi:好
+
+--------------------------------------------------------------------------------
+en:Okay.
+vi:Được rồi.
+chi:好
+
+--------------------------------------------------------------------------------
+en:He's got a serious deficit.
+vi:Cậu ấy có một thiếu hụt nghiêm trọng.
+chi:他有很严重的障碍
+
+--------------------------------------------------------------------------------
+en:A child is alive todaybecause of that deficit.
+vi:Hôm nay một đứa trẻ đã sốngnhờ vào sự thiếu hụt đó đấy.
+chi:今天有个孩子就因为他的障碍才能活下来
+
+--------------------------------------------------------------------------------
+en:And tomorrow, one maybe dead because of it.
+vi:Và ngay mai, một đứa có thể chết vì nó.
+chi:明天或许就有个孩子因为他的障碍而死
+
+--------------------------------------------------------------------------------
+en:I seem to rememberthat when I hired you,
+vi:Tôi nhớ lúc mà tôi thuê anh,
+chi:我还记得我聘用你的时候
+
+--------------------------------------------------------------------------------
+en:you weren't exactly makingthe most adult decisions.
+vi:anh không hẳn đưa ranhững quyết định đúng đắn nhất.
+chi:你当时做决定也不是很成熟
+
+--------------------------------------------------------------------------------
+en:You haven't killedanyone yet, have you?
+vi:Anh vẫn chưa giết ai cả. Phải chứ?
+chi:但你目前还没害死过谁,对吧?
+
+--------------------------------------------------------------------------------
+en:Well, thankfully, there's acure for youth and stupidity,
+vi:Chà, may mắn thay,có một cách chữa cho tuổi trẻ
+chi:幸好年轻和愚蠢是有解药的
+
+--------------------------------------------------------------------------------
+en:time and experience.
+vi:và sự ngu ngốc... là thời gian và kinh nghiệm.
+chi:就是时间和经验
+
+--------------------------------------------------------------------------------
+en:There's a cure forstupidity? Okay.
+vi:Đó là cách chữa sự ngu ngốc sao? Được thôi.
+chi:愚蠢有解药吗?好吧
+
+--------------------------------------------------------------------------------
+en:That would be a windfall.All Shaun has is a diagnosis.
+vi:Đó sẽ là một sự may mắn.
+chi:那就能赚大钱了
+
+--------------------------------------------------------------------------------
+en:I'd like your help. I takeit I'm not gonna get it.
+vi:Tôi muốn anh giúp.
+chi:我本来希望你能帮忙
+
+--------------------------------------------------------------------------------
+en:Okay.
+chi:好吧
+
+--------------------------------------------------------------------------------
+en:Wait.
+chi:等等
+
+--------------------------------------------------------------------------------
+en:What's the story with this kid?Why is it so important to you?
+vi:Câu chuyện với đứa trẻ này là gì?
+chi:他有什么故事?
+
+--------------------------------------------------------------------------------
+en:Why not?
+vi:Tại sao không?
+chi:有何不可?
+
+--------------------------------------------------------------------------------
+en:Because lettingthings get personal
+chi:因为公事涉及私情的话
+
+--------------------------------------------------------------------------------
+en:is a sure formula forscrewing things up.
+vi:chuyện gì cũng hỏng.
+chi:一定会出问题
+
+--------------------------------------------------------------------------------
+en:I don't know.
+vi:Tôi không biết.
+chi:不一定
+
+--------------------------------------------------------------------------------
+en:Letting things getpersonal is how we...
+vi:Cá nhân Hóa mọi chuyện là cách mà chúng ta...
+chi:我们就是动了私情
+
+--------------------------------------------------------------------------------
+en:How we make it matter.
+chi:才能把公事做得更好
+
+--------------------------------------------------------------------------------
+en:So are you proudor disappointed?
+vi:Vậy em tự hào hay thất vọng đây?
+chi:你是以我为荣还是对我很失望?
+
+--------------------------------------------------------------------------------
+en:Do I have to pick just one?
+chi:我只能二选一吗?
+
+--------------------------------------------------------------------------------
+en:Hey.
+chi:嘿
+
+--------------------------------------------------------------------------------
+en:You're new to town, right?
+vi:Cậu mới đến thành phố, phải không?
+chi:你才刚搬来圣荷西,对吧?
+
+--------------------------------------------------------------------------------
+en:Yes.
+vi:Phải.
+chi:对
+
+--------------------------------------------------------------------------------
+en:Well, I'm sure youhave a lot of questions.
+vi:Tôi chắc là cậu có nhiều câu hỏi lắm.
+chi:那你一定有很多问题
+
+--------------------------------------------------------------------------------
+en:No.
+vi:Không.
+chi:没有
+
+--------------------------------------------------------------------------------
+en:You've got to be curious aboutthe place, about the people.
+vi:Cậu chắc hẳn tò mò về địa điểm, con người,
+chi:你一定很好奇这里还有这里的人
+
+--------------------------------------------------------------------------------
+en:Dr. Glassman gaveme a map of the hospital,
+vi:Bs. Glassman đã đưa tôi bản đồ của bệnh viện,
+chi:葛拉斯曼医师给了我医院的地图
+
+--------------------------------------------------------------------------------
+en:and I got a mapof San Jose online.
+vi:và tôi có bản đồ của San Jose trên mạng.
+chi:我也上网查过了圣荷西的地图
+
+--------------------------------------------------------------------------------
+en:Okay.
+vi:Được rồi.
+chi:好吧
+
+--------------------------------------------------------------------------------
+en:Great.
+chi:太好了
+
+--------------------------------------------------------------------------------
+en:I do have one question.
+vi:Tôi có một câu hỏi.
+chi:我是有一个问题
+
+--------------------------------------------------------------------------------
+en:Yeah.
+vi:Ừ?
+chi:怎么了?
+
+--------------------------------------------------------------------------------
+en:Why were you rude tome when we first met,
+vi:Sao lại thô lỗ với tôi khi lần đầu gặp mặt,
+chi:你为什么第一次见到我对我那么失礼?
+
+--------------------------------------------------------------------------------
+en:then nicer to me thesecond time we met,
+vi:sau đó thì tốt với tôi,
+chi:第二次就对我比较好
+
+--------------------------------------------------------------------------------
+en:and now you wantto be my friend?
+vi:và giờ thì cô lại muốn làm bạn?
+chi:现在又想跟我当朋友?
+
+--------------------------------------------------------------------------------
+en:Which time was it thatyou were pretending?
+vi:Lần nào là cô giả vờ thế?
+chi:你哪一次是装出来的?
+
+--------------------------------------------------------------------------------
+en:Shaun, we're ready.
+vi:Shaun. Ta đi thôi.
+chi:尚恩,来吧
+
+--------------------------------------------------------------------------------
+en:The vote was clear. Whyare we reopening this?
+vi:Cuộc bỏ phiếu đã rõ.Sao ta lại khơi lại chuyện này chứ?
+chi:投票结果很明确为什么又要继续讨论?
+
+--------------------------------------------------------------------------------
+en:Is it really becauseof a piece of publicity?
+vi:Thật sự là vì một mẩu tin à?
+chi:就只是因为他上了新闻吗?
+
+--------------------------------------------------------------------------------
+en:It's because the manjust saved somebody's life.
+vi:Là vì cậu ta vừa cứu mạng một người.
+chi:因为他刚救活了一个人
+
+--------------------------------------------------------------------------------
+en:And thank God for that,
+vi:Tạ ơn trời vì điều đó,
+
+--------------------------------------------------------------------------------
+en:but it doesn't change asingle thing we discussed.
+vi:nhưng chẳng thay đổi gìviệc chúng ta đã thảo luận.
+chi:但这并不影响我们讨论过的问题
+
+--------------------------------------------------------------------------------
+en:Give him six months.
+vi:Cho cậu ấy 6 tháng.
+chi:给他六个月
+
+--------------------------------------------------------------------------------
+en:If he proves anythingless than excellent...
+vi:Nếu cậu ấy chứng tỏbất kì điều gì ít hơn là xuất sắc...
+chi:如果他的表现真的欠佳
+
+--------------------------------------------------------------------------------
+en:Someone less than excellentmeans someone else dies.
+vi:Ai đó "ít hơn xuất sắc" nghĩalà ai đó khác sẽ chết.
+chi:他表现欠佳就会有病患死掉
+
+--------------------------------------------------------------------------------
+en:Well, I would love tomake you happy, Doctor.
+vi:Chà, tôi rất muốn khiến anh hài lòng, bác sĩ.
+chi:我也很想让你满意,医师
+
+--------------------------------------------------------------------------------
+en:I would love to hire someonewho never, ever makes a mistake.
+vi:Tôi rất muốn thuê ai đókhông và không bao giờ phạm lỗi.
+chi:我也想聘用一个绝对不会犯错的人
+
+--------------------------------------------------------------------------------
+en:Unfortunately, Godalready has a job.
+vi:Thật không may,Chúa cũng có công việc của Ngài.
+chi:可惜只有上帝不会犯错
+
+--------------------------------------------------------------------------------
+en:I can accept thathe will have insights
+vi:Tôi có thể chấp nhận cậuta sẽ có những hiểu biết
+chi:我可以接受他有我们其他人
+
+--------------------------------------------------------------------------------
+en:that none of therest of us will have.
+vi:mà không một ai trong chúng ta có.
+chi:永远没办法达到的观察力
+
+--------------------------------------------------------------------------------
+en:Can you accept thathe will make mistakes
+vi:Ông có chấp nhận việc cậu ta sẽ phạm lỗi
+chi:那你能不能接受他会犯
+
+--------------------------------------------------------------------------------
+en:none of the restof us will make?
+vi:mà không một ai trong chúng ta phạm chứ?
+chi:付出代价的人又不会是你
+
+--------------------------------------------------------------------------------
+en:You won't be the onewho pays the price.
+vi:Ông sẽ không phải là kẻ phải trả giá.
+chi:付出代价的人又不会是你
+
+--------------------------------------------------------------------------------
+en:If Shaun doesn't live up toeverything I know he can do,
+vi:Nếu Shaun không giỏi nhưnhững gì tôi biết cua ta có thể làm,
+chi:如果尚恩的表现没有达到我预期的目标
+
+--------------------------------------------------------------------------------
+en:he will be immediately released,
+vi:cậu ta sẽ bị sa thải ngay lập tức.
+chi:医院就能马上开除他
+
+--------------------------------------------------------------------------------
+en:and I will resign my positionas president of this hospital.
+vi:Và tôi sẽ từ chức chủ tịch bệnh viện này.
+chi:我也会辞掉院长的职务
+
+--------------------------------------------------------------------------------
+en:We haven't heardfrom Dr. Murphy yet.
+vi:Chúng ta vẫn chưa nghe Bs. Murphy.
+chi:我们还没听过墨菲医师说话
+
+--------------------------------------------------------------------------------
+en:Perhaps we should hear fromhim before we decide his fate.
+vi:Có lẽ chúng ta nên nghe chính cậu ấytrước khi quyết định số mệnh cậu ta.
+chi:或许我们在决定他的命运前应该先听听他想说的话
+
+--------------------------------------------------------------------------------
+en:Shaun.
+chi:尚恩
+
+--------------------------------------------------------------------------------
+en:Dr. Murphy, I'dlike you to tell us
+vi:Bs. Murphy...
+chi:请你告诉我们你为什么想当外科医师
+
+--------------------------------------------------------------------------------
+en:why you want tobecome a surgeon.
+vi:Tôi muốn cậu kể chúng tôi nghetại sao cậu muốn trở thành bác sĩ phẫu thuật.
+chi:请你告诉我们你为什么想当外科医师
+
+--------------------------------------------------------------------------------
+en:Why do I want themto be my friends?
+vi:Sao em lại muốn anh kết bạn với chúng?
+chi:我为什么要跟他们交朋友?
+
+--------------------------------------------------------------------------------
+en:Everybody needs friends, Shaun.
+vi:Mọi người đều cần bạn bè, Shaun.
+chi:大家都需要朋友,尚恩
+
+--------------------------------------------------------------------------------
+en:It's gonna be cool, okay?Play hide-and-seek, maybe?
+vi:Nó sẽ rất tuyệt, được chứ?Chơi trốn tìm chẳng hạn?
+chi:会很酷的,好吗?可以一起玩躲猫猫
+
+--------------------------------------------------------------------------------
+en:- Okay.- Tag in the warehouse.
+vi:- Được rồi.- Chơi đuổi bắt trong nhà kho?
+chi:-好-或是去仓库玩鬼抓人
+
+--------------------------------------------------------------------------------
+en:I told you, it's fun, right?
+chi:我就说会很好玩吧?
+
+--------------------------------------------------------------------------------
+en:Hey. You know what?
+vi:Này, anh biết gì không?
+chi:我跟你说喔
+
+--------------------------------------------------------------------------------
+en:The day that the rainsmelled like ice cream,
+vi:Cái ngày mà trời mưa có mùi như kem,
+chi:雨有冰淇淋的味道那天
+
+--------------------------------------------------------------------------------
+en:my bunny went toheaven in front of my eyes.
+chi:我的兔子在我的眼前
+
+--------------------------------------------------------------------------------
+en:The day that the copperpipes in the old building
+vi:Cái ngày mà ống đồng trong tòa nhà cũ
+chi:旧建筑的铜管
+
+--------------------------------------------------------------------------------
+en:smelled like burnt food,
+chi:有食物烧焦的味道那天
+
+--------------------------------------------------------------------------------
+en:my brother
+vi:em trai tôi...
+chi:我弟弟
+
+--------------------------------------------------------------------------------
+en:went to heavenin front of my eyes.
+vi:lên thiên đường ngay trước mặt tôi.
+chi:在我的眼前上天堂了
+
+--------------------------------------------------------------------------------
+en:I couldn't save them. It's sad.
+vi:Tôi không thể cứu họ.
+chi:当时的我救不了他们
+
+--------------------------------------------------------------------------------
+en:Neither one had thechance to become an adult.
+chi:他们两个都没机会长大
+
+--------------------------------------------------------------------------------
+en:They should have become adults.
+chi:他们本来应该要长大的
+
+--------------------------------------------------------------------------------
+en:They should have hadchildren of their own
+vi:Họ nên có con của riêng mình
+chi:他们本来应该要生下自己的小孩
+
+--------------------------------------------------------------------------------
+en:and loved those children.
+chi:而且有机会爱自己的小孩
+
+--------------------------------------------------------------------------------
+en:And I want to make thatpossible for other people.
+vi:Và tôi muốn thực hiện điều đó
+chi:我想要让其他人
+
+--------------------------------------------------------------------------------
+en:And I want to make a lot of moneyso that I can have a television.
+vi:Và tôi muốn kiếm thật nhiều tiền
+chi:我还想要赚很多钱
+
+--------------------------------------------------------------------------------
+en:Dr. Murphy,
+vi:Bs. Murphy...
+chi:墨菲医师
+
+--------------------------------------------------------------------------------
+en:I want to be thefirst to welcome you
+vi:Tôi muốn là người đầu tiên chào mừng cậu
+chi:我想当第一个欢迎你
+
+--------------------------------------------------------------------------------
+en:to San Jose SaintBonaventure Hospital.
+vi:đến bệnh viện thánh Bonaventure, San Jose.
+chi:加入圣荷西圣文德医院的人
+
+--------------------------------------------------------------------------------
+en:We're very proud to have you.
+vi:Chúng tôi rất tự hào khi có cậu.
+chi:我们很荣幸能聘用你
+
+--------------------------------------------------------------------------------
+en:Shaun,
+
+--------------------------------------------------------------------------------
+en:Dr. Melendez's teamis going into surgery.
+vi:Shaun, đội của Bs. Melendez sẽ phẫu thuật.
+chi:尚恩,梅伦戴兹医师的团队要开始手术了
+
+--------------------------------------------------------------------------------
+en:I mean, if you're interested.
+vi:Ý bác là, nếu cháu có hứng thú.
+chi:你有兴趣的话就来吧
+
+--------------------------------------------------------------------------------
+en:Got a messy field here.
+vi:Có một bãi lộn xộn ở đây.
+chi:这里视野真乱
+
+--------------------------------------------------------------------------------
+en:Murphy.
+chi:墨菲
+
+--------------------------------------------------------------------------------
+en:Suction.
+chi:抽吸
+
+--------------------------------------------------------------------------------
+en:Never forget,you're the smart one.
+vi:Đừng quên, anh là đứa thông minh.
+chi:永远别忘了,你很聪明
+
+--------------------------------------------------------------------------------
+en:You can do anything.
+vi:Anh có thể làm mọi thứ.
+chi:你什么都能办到
+
+--------------------------------------------------------------------------------
+en:And I'm proud of you, Shaun.
+vi:Và em tự hào về anh, Shaun.
+chi:我很以你为荣,尚恩
+
+--------------------------------------------------------------------------------
+en:Thought you'veseen many of these.
+vi:Cá rằng cậu thấy những thứ này nhiều rồi.
+chi:我以为你看过很多次手术了
+
+--------------------------------------------------------------------------------
+en:I remember my first.
+vi:Tôi nhớ lần đầu của mình.
+chi:我还记得我第一次参与手术
+
+--------------------------------------------------------------------------------
+en:I kept thinking, "It doesn'tget any better than this."
+vi:Cứ nghĩ mãi, "Nó chẳng tốt hơn thế này là bao."
+chi:我一直心想之后再也不会比这更好了
+
+--------------------------------------------------------------------------------
+en:But for you, I'm afraid,that's literally true.
+vi:Và với cậu, tôi e rằng đúng là nghĩa đen.
+chi:对你来说,恐怕真的是这样
+
+--------------------------------------------------------------------------------
+en:You're a nice kid, andyou're obviously very smart,
+vi:Cậu là một đứa trẻ tốt,và cậu rõ ràng rất thông minh,
+chi:你人很好,你显然也很聪明
+
+--------------------------------------------------------------------------------
+en:but you don't belong here.
+vi:nhưng cua không thuộc về chỗ này.
+chi:但你不属于这里
+
+--------------------------------------------------------------------------------
+en:So, as long as you'repart of my team,
+vi:Nên, miễn cậu là một phần của đội tôi,
+chi:所以你只要是在我的团队里
+
+--------------------------------------------------------------------------------
+en:this is all you're evergoing to be doing, suction.
+chi:你永远就只能负责这个
+
+--------------------------------------------------------------------------------
+en:I saw a lot of surgeonsin medical school.
+vi:Tôi đã thấy rất nhiềubác sĩ phẫu thuật ở phòng Y.
+chi:我念医学院时看过很多外科医师
+
+--------------------------------------------------------------------------------
+en:You're much better than them.
+vi:Anh giỏi hơn họ rất nhiều.
+chi:你比他们都厉害多了
+
+--------------------------------------------------------------------------------
+en:I have a lot to learn from you.
+vi:Tôi còn phải học hỏi anh nhiều lắm.
+chi:我有很多要向你学习的
+
+--------------------------------------------------------------------------------
+en:You're very arrogant.
+chi:你很傲慢
+
+--------------------------------------------------------------------------------
+en:Do you think that helpsyou be a good surgeon?
+chi:这样对你成为厉害的外科医师有帮助吗?
+
+--------------------------------------------------------------------------------
+en:Does it hurt you as a person?
+vi:Nó không khiến anhtổn thương như người thường à?
+chi:这样对你本身有害吗?
+
+--------------------------------------------------------------------------------
+en:Is it worth it?
+vi:Nó có đáng không?
+chi:这样值得吗?
+
+--------------------------------------------------------------------------------

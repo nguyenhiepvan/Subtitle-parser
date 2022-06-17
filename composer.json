@@ -1,0 +1,20 @@
+{
+    "name": "nguyenhiep/sutitle-parser",
+    "autoload": {
+        "psr-4": {
+            "Nguyenhiep\\SubtitleParser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nguyễn Văn Hiệp",
+            "email": "nguyenhiepvan.bka@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8",
+        "symfony/var-dumper": "^6.1",
+        "illuminate/collections": "^9.17",
+        "illuminate/support": "^9.17"
+    }
+}
