@@ -1,4 +1,3 @@
-parse subtitle to multiple languages
 see `result_*.txt`
     
     [x]: # Read srt file and convert to object
